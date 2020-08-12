@@ -1,5 +1,5 @@
 fun main() {
-    val nilai = 75
+    val nilai = 88
     val hasil:String
     hasil = if (nilai>=90 && nilai<=100){
         "Grade A"
